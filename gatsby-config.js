@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Puzzle React Experiment',
   },
   plugins: ['gatsby-plugin-react-helmet'],
 }
